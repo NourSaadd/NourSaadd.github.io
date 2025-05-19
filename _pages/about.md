@@ -5,22 +5,23 @@ permalink: /about/
 author_profile: false
 ---
 
-# 👩‍💻 About Me
+# About Me
 
 I'm an ambitious bioinformatics student passionate about solving real-world biological problems using data. My academic background combines biological sciences, data analytics, and programming — with hands-on experience in drug discovery, protein modeling, and machine learning. I'm a fast learner, a team player, and someone who thrives in interdisciplinary research.
 
 ---
 
-# 🎓 Education
+# Education
 
 **Lebanese American University (LAU)**  
 Bachelor of Science in *Bioinformatics* 
 Minor in *Data Analytics*  
                          *2025 Graduate*
+![lau-logo-social-media](https://github.com/user-attachments/assets/268a7627-9909-43f4-97b5-fcc4eeff8400)
 
 ---
 
-# 🧠 Tools
+# Tools
 
 - **Programming:** Python, R, Java, SQL , Jupyter Notebook
 - **Bioinformatics:** AutoDockTools, BLAST, PyMOL, Chimera  
@@ -31,7 +32,7 @@ Minor in *Data Analytics*
 
 ---
 
-# 🌐 Languages
+# Languages
 
 - **English:** Full Professional  
 - **Arabic:** Full Professional  
