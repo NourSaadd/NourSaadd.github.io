@@ -29,9 +29,9 @@ Minor in **Data Analytics**
 
 # Tools
 
-- **Programming:** Python, R, Java, SQL , Jupyter Notebook
+- **Programming:** Python, R, Java, SQL 
 - **Bioinformatics:** AutoDockTools, BLAST, PyMOL, Chimera  
-- **Data Science:** Dataiku, ML model building, feature engineering
+- **Data Science:** Dataiku, ML model building, Feature engineering
 - **Databases:** MySQL, Oracle
 - **Biological Data**: Sequence alignment, gene expression, protein modeling
 
