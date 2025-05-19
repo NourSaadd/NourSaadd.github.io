@@ -27,7 +27,7 @@ atom_feed:
 
 footer:
   links: false
-  custom: footer_custom
+  custom: "footer_custom"
 
 include:
   - _pages
