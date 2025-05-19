@@ -23,3 +23,5 @@ defaults:
 header:
   nav: main
 
+include:
+  - _pages
