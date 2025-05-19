@@ -5,6 +5,8 @@ email: nour.saad06@lau.edu
 github_username: NourSaadd
 
 remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-include-cache
 
 # Layout
 defaults:
