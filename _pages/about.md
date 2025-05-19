@@ -43,4 +43,4 @@ Minor in **Data Analytics**
 - **French:** Full Professional  
 - **Spanish:** Intermediate (B Level)
 
-
+</div>
