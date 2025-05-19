@@ -22,6 +22,12 @@ defaults:
 # Enable navigation bar
 header:
   nav: main
+  
+footer:
+  links: []  # optional: clears social or nav links
+  copyright: true  # keeps your copyright line
+  powered_by: false  # hides "Powered by Jekyll & Minimal Mistakes"
+
 
 include:
   - _pages
