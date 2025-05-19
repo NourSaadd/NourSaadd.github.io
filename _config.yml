@@ -22,7 +22,9 @@ defaults:
 # Enable navigation bar
 header:
   nav: main
-  
+atom_feed:
+  hide: true
+
 footer:
   links: []  # optional: clears social or nav links
   copyright: true  # keeps your copyright line
