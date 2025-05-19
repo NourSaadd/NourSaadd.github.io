@@ -28,7 +28,6 @@ atom_feed:
 footer:
   custom: footer_custom
 
-
 include:
   - _pages
 
