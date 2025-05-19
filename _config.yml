@@ -1,7 +1,5 @@
-# Theme configuration
 remote_theme: mmistakes/minimal-mistakes
 
-# Default layout for pages
 defaults:
   - scope:
       path: ""
@@ -10,3 +8,6 @@ defaults:
       layout: single
       author_profile: false
 
+# Enable nav from _data/navigation.yml
+header:
+  nav: "main"
