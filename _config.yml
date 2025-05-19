@@ -26,9 +26,7 @@ atom_feed:
   hide: true
 
 footer:
-  links: []  # optional: clears social or nav links
-  copyright: true  # keeps your copyright line
-  powered_by: false  # hides "Powered by Jekyll & Minimal Mistakes"
+  custom: footer_custom
 
 
 include:
