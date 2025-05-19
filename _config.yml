@@ -6,6 +6,8 @@ github_username: NourSaadd
 
 remote_theme: "mmistakes/minimal-mistakes"
 plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
   - jekyll-include-cache
 
 # Layout
