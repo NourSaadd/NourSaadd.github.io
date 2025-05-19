@@ -1,11 +1,9 @@
 ---
 layout: single
-title: 
+title: About Me
 permalink: /about/
 author_profile: false
 ---
-
-# About Me
 
 <img src="https://github.com/user-attachments/assets/9ca555a4-71ca-41c9-a2f7-becb2285244e" alt="Myself" width="360" />
 
