@@ -19,7 +19,8 @@ I'm an ambitious bioinformatics student passionate about solving real-world biol
 
 Bachelor of Science in **Bioinformatics**
 
-Minor in **Data Analytics**               
+Minor in **Data Analytics**    
+
 **2025 Graduate**
 
 ---
