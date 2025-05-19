@@ -14,13 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Nour Saad
-email:
+email: nour.saad06@lau.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+  A glimpse into my academic and technical journey through projects in molecular modeling, data science, scripting, and database systems.
+github_username: NourSaadd
 minimal_mistakes_skin: default
 search: true
 
