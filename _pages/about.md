@@ -8,7 +8,8 @@ author_profile: false
 <img src="https://github.com/user-attachments/assets/9ca555a4-71ca-41c9-a2f7-becb2285244e" alt="Myself" width="360" />
 
 
-I'm an ambitious bioinformatics student passionate about solving real-world problems using data. My academic background combines biological sciences, data analytics, and programming — with hands-on experience in drug discovery, protein modeling, and machine learning. I'm a fast learner, a team player, and someone who thrives in interdisciplinary research.
+I'm an ambitious bioinformatics student passionate about solving real-world problems using data. My academic background combines biological sciences, data analytics, and programming — with hands-on experience in drug discovery, protein modeling, and machine learning. 
+I'm a fast learner, a team player, and someone who thrives in interdisciplinary research.
 
 ---
 
