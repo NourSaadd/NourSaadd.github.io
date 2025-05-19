@@ -25,6 +25,8 @@ header:
 atom_feed:
   hide: true
 
+footer:
+  custom: "footer_custom"
 
 include:
   - _pages
