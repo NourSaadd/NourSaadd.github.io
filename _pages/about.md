@@ -1,8 +1,41 @@
 ---
-permalink: /about/
+layout: single
 title: "About"
+permalink: /about/
+author_profile: false
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+# 👩‍💻 About Me
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I'm an ambitious bioinformatics student passionate about solving real-world biological problems using data. My academic background combines biological sciences, data analytics, and programming — with hands-on experience in drug discovery, protein modeling, and machine learning. I'm a fast learner, a team player, and someone who thrives in interdisciplinary research.
+
+---
+
+# 🎓 Education
+
+**Lebanese American University (LAU)**  
+Bachelor of Science in *Bioinformatics* 
+Minor in *Data Analytics*  
+                         *2025 Graduate*
+
+---
+
+# 🧠 Tools
+
+- **Programming:** Python, R, Java, SQL , Jupyter Notebook
+- **Bioinformatics:** AutoDockTools, BLAST, PyMOL, Chimera  
+- **Data Science:** Dataiku, ML model building, feature engineering
+- **Databases:** MySQL, Oracle
+- **Biological Data**: Sequence alignment, gene expression, protein modeling
+
+
+---
+
+# 🌐 Languages
+
+- **English:** Full Professional  
+- **Arabic:** Full Professional  
+- **French:** Full Professional  
+- **Spanish:** Intermediate (B Level)
+
+
