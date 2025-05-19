@@ -13,7 +13,7 @@ I'm an ambitious bioinformatics student passionate about solving real-world biol
 
 # Education
 
-<img src="https://github.com/user-attachments/assets/268a7627-9909-43f4-97b5-fcc4eeff8400" alt="LAU Logo" width="140" />
+<img src="https://github.com/user-attachments/assets/268a7627-9909-43f4-97b5-fcc4eeff8400" alt="LAU Logo" width="180" />
 
 **Lebanese American University (LAU)**  
 
