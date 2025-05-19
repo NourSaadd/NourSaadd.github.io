@@ -5,6 +5,8 @@ permalink: /
 author_profile: false
 ---
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
 <h1 style="text-align: center;">Welcome!</h1>
 
 <h2 style="text-align: center;">I'm Nour Saad</h2>
