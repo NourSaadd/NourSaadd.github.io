@@ -1,10 +1,10 @@
 ---
 layout: single
-title: About Me
 permalink: /about/
 author_profile: false
 ---
   
+# About Me
 
 I'm an ambitious bioinformatics student passionate about solving real-world problems using data. My academic background combines biological sciences, data analytics, and programming — with hands-on experience in drug discovery, protein modeling, and machine learning. I'm a fast learner, a team player, and someone who thrives in interdisciplinary research.
 
