@@ -1,5 +1,12 @@
-remote_theme: mmistakes/minimal-mistakes
+title: Nour Saad
+description: >-
+  A glimpse into my academic and technical journey through projects in molecular modeling, data science, scripting, and database systems.
+email: nour.saad06@lau.edu
+github_username: NourSaadd
 
+remote_theme: "mmistakes/minimal-mistakes"
+
+# Layout
 defaults:
   - scope:
       path: ""
@@ -8,6 +15,7 @@ defaults:
       layout: single
       author_profile: false
 
-# Enable nav from _data/navigation.yml
+# Enable navigation bar
 header:
-  nav: "main"
+  nav: main
+
