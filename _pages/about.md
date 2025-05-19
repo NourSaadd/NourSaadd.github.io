@@ -3,7 +3,6 @@ layout: single
 permalink: /about/
 author_profile: false
 ---
-<div style="font-size: 0.95em; line-height: 1.6;">
   
 # About Me
 
@@ -43,4 +42,4 @@ Minor in **Data Analytics**
 - **French:** Full Professional  
 - **Spanish:** Intermediate (B Level)
 
-</div>
+
