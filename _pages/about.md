@@ -17,7 +17,9 @@ I'm an ambitious bioinformatics student passionate about solving real-world biol
 Bachelor of Science in *Bioinformatics* 
 Minor in *Data Analytics*  
                          *2025 Graduate*
-![lau-logo-social-media](https://github.com/user-attachments/assets/268a7627-9909-43f4-97b5-fcc4eeff8400)
+
+                         
+<img src="https://github.com/user-attachments/assets/268a7627-9909-43f4-97b5-fcc4eeff8400" alt="LAU Logo" width="100" />
 
 ---
 
